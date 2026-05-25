@@ -13,7 +13,6 @@ ENDCLASS.
 
 CLASS zcl_gbaca_test IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hola, mundo!' ).
   ENDMETHOD.
 
 ENDCLASS.
